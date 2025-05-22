@@ -120,7 +120,7 @@ body{
     /* align-content: center; */
 }
 
-@media only screen and (max-width: 780px) {
+@media only screen and (max-width: 750px) {
 
     .last-page{
     display: flex;
