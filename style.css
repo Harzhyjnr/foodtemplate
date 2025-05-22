@@ -190,7 +190,7 @@ body{
 .tr{
     background: black;
     color: white;
-    margin: 0px 80px;
+    margin: 5px 5px;
     padding: 0px 8px;
     font-size: 15px;
     /* align-content: center; */
@@ -198,7 +198,7 @@ body{
 .tr-1{
     background-color: rgb(145, 143, 143);
     color: white;
-    margin: 0px 8px;
+    margin: 5px 5px;
     padding: 0px 8px;
     font-size: 12px;
     /* align-content: center; */
